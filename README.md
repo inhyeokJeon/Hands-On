@@ -8,7 +8,7 @@
 ## 2. 목차
 
 ### Part 1. 머신러닝
-- Chap01 - [한눈에 보는 머신러닝](https://github.com/ExcelsiorCJH/Hands-On-ML/blob/master/Chap01-The_Machine_Learning_Landscape/Chap01-ML_Intro.pdf)
+- Chap01 - [한눈에 보는 머신러닝](https://github.com/inhyeokJeon/Hands-On/tree/main/%5BCHAPTER%201%5D%20한눈에%20보는%20머신러닝)
 - Chap02 - [머신러닝 프로젝트 처음부터 끝까지](https://github.com/ExcelsiorCJH/Hands-On-ML/blob/master/Chap02-End_to_End_ML_Project/Chap02-End_to_End_ML_Project.ipynb)
 - Chap03 - [분류](https://github.com/ExcelsiorCJH/Hands-On-ML/blob/master/Chap03-Classification/Chap03-Classification.ipynb)
 - Chap04 - [모델 훈련](https://github.com/ExcelsiorCJH/Hands-On-ML/blob/master/Chap04-Training_Models/Chap04-Training_Models.ipynb)
