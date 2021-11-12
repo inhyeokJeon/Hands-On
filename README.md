@@ -26,7 +26,7 @@
 - Chap14 - [합성곱 신경망을 사용한 컴퓨터 비전](https://github.com/inhyeokJeon/Hands-On/tree/main/%5BCHAPTER%2014%5D%20합성곱%20신경망을%20사용한%20컴퓨터%20비전)
 - Chap15 - [RNN과 CNN을 사용해 시퀀스 처리하기](https://github.com/inhyeokJeon/Hands-On/tree/main/%5BCHAPTER%2015%5D%20RNN과%20CNN을%20사용해%20시퀀스%20처리하기)
 - Chap16 - [RNN과 어텐션을 사용한 자연어 처리](https://github.com/inhyeokJeon/Hands-On/tree/main/%5BCHAPTER%2016%5D%20RNN과%20어텐션을%20사용한%20자연어%20처리)
-- Chap17 - [오토인코더와 GAN을 사용한 표현 학습과 생성적(https://github.com/inhyeokJeon/Hands-On/tree/main/%5BCHAPTER%2017%5D%20오토인코더와%20GAN을%20사용한%20표현%20학습과%20생성적%20학습)
+- Chap17 - [오토인코더와 GAN을 사용한 표현 학습과 생성적 학습](https://github.com/inhyeokJeon/Hands-On/tree/main/%5BCHAPTER%2017%5D%20오토인코더와%20GAN을%20사용한%20표현%20학습과%20생성적%20학습)
 - Chap18 - [강화학습](https://github.com/inhyeokJeon/Hands-On/tree/main/%5BCHAPTER%2018%5D%20강화%20학습)
 - Chap19 - [대규모 텐서플로 모델 훈련과 배포](https://github.com/inhyeokJeon/Hands-On/tree/main/%5BCHAPTER%2019%5D%20대규모%20텐서플로%20모델%20훈련과%20배포)
 
